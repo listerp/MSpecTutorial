@@ -1,0 +1,5 @@
+C:\Development\Play\MSpec\MSpec.Library\bin\Debug\MSpec.Library.dll
+C:\Development\Play\MSpec\MSpec.Library\bin\Debug\MSpec.Library.pdb
+C:\Development\Play\MSpec\MSpec.Library\obj\Debug\MSpec.Library.csprojResolveAssemblyReference.cache
+C:\Development\Play\MSpec\MSpec.Library\obj\Debug\MSpec.Library.dll
+C:\Development\Play\MSpec\MSpec.Library\obj\Debug\MSpec.Library.pdb

@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 using Machine.Specifications;
-using MSpec.Extensions;
+using MSpec.Console.Extensions;
 
 namespace MSpec.Tests.Extensions.StringExtensionTests
 {

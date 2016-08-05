@@ -1,5 +1,5 @@
 ﻿using Machine.Specifications;
-using MSpec.Services;
+using MSpec.Console.Services;
 
 namespace MSpec.Tests.Services.TranslationServiceTests
 {

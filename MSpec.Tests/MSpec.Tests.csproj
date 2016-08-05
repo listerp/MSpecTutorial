@@ -66,9 +66,9 @@
   </ItemGroup>
   <ItemGroup />
   <ItemGroup>
-    <ProjectReference Include="..\MSpec\MSpec.csproj">
+    <ProjectReference Include="..\MSpec.Console\MSpec.Console.csproj">
       <Project>{e8201b45-4768-43d3-9e06-055f79642cc0}</Project>
-      <Name>MSpec</Name>
+      <Name>MSpec.Console</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

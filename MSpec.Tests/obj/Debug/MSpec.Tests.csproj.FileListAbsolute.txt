@@ -3,10 +3,10 @@ C:\Development\Play\MSpec\MSpec.Tests\bin\Debug\MSpec.Tests.pdb
 C:\Development\Play\MSpec\MSpec.Tests\bin\Debug\Machine.Specifications.Clr4.dll
 C:\Development\Play\MSpec\MSpec.Tests\bin\Debug\Machine.Specifications.dll
 C:\Development\Play\MSpec\MSpec.Tests\bin\Debug\Machine.Specifications.Should.dll
-C:\Development\Play\MSpec\MSpec.Tests\bin\Debug\MSpec.exe
 C:\Development\Play\MSpec\MSpec.Tests\bin\Debug\Ninject.dll
-C:\Development\Play\MSpec\MSpec.Tests\bin\Debug\MSpec.pdb
 C:\Development\Play\MSpec\MSpec.Tests\bin\Debug\Ninject.xml
 C:\Development\Play\MSpec\MSpec.Tests\obj\Debug\MSpec.Tests.csprojResolveAssemblyReference.cache
 C:\Development\Play\MSpec\MSpec.Tests\obj\Debug\MSpec.Tests.dll
 C:\Development\Play\MSpec\MSpec.Tests\obj\Debug\MSpec.Tests.pdb
+C:\Development\Play\MSpec\MSpec.Tests\bin\Debug\MSpec.Console.exe
+C:\Development\Play\MSpec\MSpec.Tests\bin\Debug\MSpec.Console.pdb
