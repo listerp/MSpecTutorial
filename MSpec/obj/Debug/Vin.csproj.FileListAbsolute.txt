@@ -1,0 +1,8 @@
+C:\Development\Play\Vin\Vin\bin\Debug\Vin.exe.config
+C:\Development\Play\Vin\Vin\bin\Debug\Vin.exe
+C:\Development\Play\Vin\Vin\bin\Debug\Vin.pdb
+C:\Development\Play\Vin\Vin\obj\Debug\Vin.exe
+C:\Development\Play\Vin\Vin\obj\Debug\Vin.pdb
+C:\Development\Play\Vin\Vin\bin\Debug\Ninject.dll
+C:\Development\Play\Vin\Vin\bin\Debug\Ninject.xml
+C:\Development\Play\Vin\Vin\obj\Debug\Vin.csprojResolveAssemblyReference.cache

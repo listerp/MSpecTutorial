@@ -1,0 +1,8 @@
+C:\Development\Play\MSpec\MSpec\bin\Debug\MSpec.exe.config
+C:\Development\Play\MSpec\MSpec\bin\Debug\MSpec.exe
+C:\Development\Play\MSpec\MSpec\bin\Debug\MSpec.pdb
+C:\Development\Play\MSpec\MSpec\bin\Debug\Ninject.dll
+C:\Development\Play\MSpec\MSpec\bin\Debug\Ninject.xml
+C:\Development\Play\MSpec\MSpec\obj\Debug\MSpec.csprojResolveAssemblyReference.cache
+C:\Development\Play\MSpec\MSpec\obj\Debug\MSpec.exe
+C:\Development\Play\MSpec\MSpec\obj\Debug\MSpec.pdb
